@@ -1,0 +1,7 @@
+desplazamiento_c,minima_c,alertas_preventivas,alertas_criticas,sms_encolados,latencia_p95_ms,latencia_max_ms,sms_max_caracteres
+0,3.8,0,0,0,,,0
+-1,2.8,1,0,3,0.378,0.378,117
+-2,1.8,1,0,3,0.45,0.45,117
+-3,0.8,2,0,6,0.361,0.361,117
+-4,-0.2,9,1,30,0.398,0.398,117
+-5,-1.2,19,1,60,0.354,0.406,117

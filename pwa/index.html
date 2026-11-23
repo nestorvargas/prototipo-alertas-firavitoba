@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Clima Firavitoba</title>
+  <meta name="theme-color" content="#1f6f43">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icono.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+  <header>
+    <img src="icono.svg" alt="" width="40" height="40">
+    <h1>Clima Firavitoba</h1>
+    <span id="conexion" class="chip">…</span>
+  </header>
+
+  <main>
+    <section id="alerta" class="tarjeta alerta-ninguna" aria-live="assertive">
+      <div class="icono-grande" aria-hidden="true">❄️</div>
+      <div>
+        <h2>Helada</h2>
+        <p id="alerta-texto">Sin datos todavía</p>
+      </div>
+    </section>
+
+    <section class="tarjeta">
+      <div class="icono-grande" aria-hidden="true">🌡️</div>
+      <div>
+        <h2>Ahora en la vereda</h2>
+        <p class="dato"><span id="temp">--</span> °C</p>
+        <p>💧 Humedad <b id="hum">--</b> % · 🌧️ Lluvia hoy <b id="lluvia">--</b> mm</p>
+        <p class="pequeno">Dato de las <span id="hora">--</span></p>
+      </div>
+    </section>
+
+    <button id="escuchar" class="boton-grande">🔊 Escuchar</button>
+
+    <section class="tarjeta columna">
+      <h2>Últimos 90 días</h2>
+      <svg id="grafica" viewBox="0 0 600 220" role="img" aria-label="Temperatura mínima y máxima por día"></svg>
+      <p class="pequeno">Línea azul: mínima del día · línea roja: máxima · franja: zona de helada (3 °C o menos)</p>
+    </section>
+
+    <p class="pequeno pie">
+      <span id="registros">0</span> registros guardados en este celular ·
+      cargó en <b id="latencia">--</b> ms
+    </p>
+  </main>
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,6 @@
+perdida_pct,muestras,confirmadas_1er_intento_pct,confirmadas_con_reintentos_pct,recibidas_servidor_pct,muestras_perdidas_servidor,transmisiones_por_muestra,duplicados_descartados,corriente_promedio_ma,autonomia_dias
+0,8636,100.0,100.0,100.0,0,1.0,0,0.1375,550.0
+5,8636,90.83,99.965,100.0,0,1.1,423,0.1414,535.0
+10,8636,80.88,99.896,100.0,0,1.23,918,0.1464,516.7
+20,8636,62.97,98.124,99.78,19,1.548,2005,0.1587,476.7
+30,8636,49.12,93.631,99.062,81,1.896,2868,0.1721,439.4

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 420" font-family="Arial, sans-serif" font-size="13">
+<rect width="760" height="420" fill="#fff"/>
+<line x1="70" x2="740" y1="360.0" y2="360.0" stroke="#e3e3e3"/><text x="62" y="364.0" text-anchor="end">0</text>
+<line x1="70" x2="740" y1="306.7" y2="306.7" stroke="#e3e3e3"/><text x="62" y="310.7" text-anchor="end">0.2</text>
+<line x1="70" x2="740" y1="253.3" y2="253.3" stroke="#e3e3e3"/><text x="62" y="257.3" text-anchor="end">0.4</text>
+<line x1="70" x2="740" y1="200.0" y2="200.0" stroke="#e3e3e3"/><text x="62" y="204.0" text-anchor="end">0.6</text>
+<line x1="70" x2="740" y1="146.7" y2="146.7" stroke="#e3e3e3"/><text x="62" y="150.7" text-anchor="end">0.8</text>
+<line x1="70" x2="740" y1="93.3" y2="93.3" stroke="#e3e3e3"/><text x="62" y="97.3" text-anchor="end">1</text>
+<line x1="70" x2="740" y1="40.0" y2="40.0" stroke="#e3e3e3"/><text x="62" y="44.0" text-anchor="end">1.2</text>
+<line x1="100.5" x2="100.5" y1="360" y2="365" stroke="#333"/><text x="100.5" y="380" text-anchor="middle">-5</text>
+<line x1="252.7" x2="252.7" y1="360" y2="365" stroke="#333"/><text x="252.7" y="380" text-anchor="middle">-4</text>
+<line x1="405.0" x2="405.0" y1="360" y2="365" stroke="#333"/><text x="405.0" y="380" text-anchor="middle">-3</text>
+<line x1="557.3" x2="557.3" y1="360" y2="365" stroke="#333"/><text x="557.3" y="380" text-anchor="middle">-2</text>
+<line x1="709.5" x2="709.5" y1="360" y2="365" stroke="#333"/><text x="709.5" y="380" text-anchor="middle">-1</text>
+<line x1="70" x2="740" y1="360" y2="360" stroke="#333"/><line x1="70" x2="70" y1="40" y2="360" stroke="#333"/><text x="405.0" y="405" text-anchor="middle" font-size="15">Desplazamiento de microclima (°C)</text><text transform="translate(18 200.0) rotate(-90)" text-anchor="middle" font-size="15">Detección → SMS en cola (ms)</text>
+<circle cx="709.5" cy="259.3" r="5" fill="#8e44ad" fill-opacity=".8"/>
+<circle cx="557.3" cy="239.9" r="5" fill="#8e44ad" fill-opacity=".8"/>
+<circle cx="405.0" cy="266.3" r="5" fill="#8e44ad" fill-opacity=".8"/>
+<circle cx="405.0" cy="263.6" r="5" fill="#8e44ad" fill-opacity=".8"/>
+<circle cx="252.7" cy="254.0" r="5" fill="#8e44ad" fill-opacity=".8"/>
+<circle cx="252.7" cy="286.2" r="5" fill="#8e44ad" fill-opacity=".8"/>
+<circle cx="252.7" cy="281.7" r="5" fill="#8e44ad" fill-opacity=".8"/>
+<circle cx="252.7" cy="301.6" r="5" fill="#8e44ad" fill-opacity=".8"/>
+<circle cx="252.7" cy="259.4" r="5" fill="#8e44ad" fill-opacity=".8"/>
+<circle cx="252.7" cy="286.8" r="5" fill="#8e44ad" fill-opacity=".8"/>
+<circle cx="252.7" cy="284.5" r="5" fill="#8e44ad" fill-opacity=".8"/>
+<circle cx="252.7" cy="329.4" r="5" fill="#8e44ad" fill-opacity=".8"/>
+<circle cx="252.7" cy="282.1" r="5" fill="#8e44ad" fill-opacity=".8"/>
+<circle cx="252.7" cy="259.9" r="5" fill="#8e44ad" fill-opacity=".8"/>
+<circle cx="100.5" cy="275.3" r="5" fill="#8e44ad" fill-opacity=".8"/>
+<circle cx="100.5" cy="292.5" r="5" fill="#8e44ad" fill-opacity=".8"/>
+<circle cx="100.5" cy="301.0" r="5" fill="#8e44ad" fill-opacity=".8"/>
+<circle cx="100.5" cy="317.7" r="5" fill="#8e44ad" fill-opacity=".8"/>
+<circle cx="100.5" cy="291.3" r="5" fill="#8e44ad" fill-opacity=".8"/>
+<circle cx="100.5" cy="297.5" r="5" fill="#8e44ad" fill-opacity=".8"/>
+<circle cx="100.5" cy="291.2" r="5" fill="#8e44ad" fill-opacity=".8"/>
+<circle cx="100.5" cy="286.7" r="5" fill="#8e44ad" fill-opacity=".8"/>
+<circle cx="100.5" cy="251.7" r="5" fill="#8e44ad" fill-opacity=".8"/>
+<circle cx="100.5" cy="289.5" r="5" fill="#8e44ad" fill-opacity=".8"/>
+<circle cx="100.5" cy="281.3" r="5" fill="#8e44ad" fill-opacity=".8"/>
+<circle cx="100.5" cy="293.9" r="5" fill="#8e44ad" fill-opacity=".8"/>
+<circle cx="100.5" cy="311.9" r="5" fill="#8e44ad" fill-opacity=".8"/>
+<circle cx="100.5" cy="330.6" r="5" fill="#8e44ad" fill-opacity=".8"/>
+<circle cx="100.5" cy="310.0" r="5" fill="#8e44ad" fill-opacity=".8"/>
+<circle cx="100.5" cy="272.0" r="5" fill="#8e44ad" fill-opacity=".8"/>
+<circle cx="100.5" cy="279.1" r="5" fill="#8e44ad" fill-opacity=".8"/>
+<circle cx="100.5" cy="290.6" r="5" fill="#8e44ad" fill-opacity=".8"/>
+<circle cx="100.5" cy="265.5" r="5" fill="#8e44ad" fill-opacity=".8"/>
+<circle cx="100.5" cy="278.8" r="5" fill="#8e44ad" fill-opacity=".8"/>
+<circle cx="85" cy="22" r="0"/><rect x="80" y="12" width="12" height="12" fill="#8e44ad"/><text x="98" y="22">Latencia por alerta</text>
+</svg>

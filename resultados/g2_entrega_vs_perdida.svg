@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 420" font-family="Arial, sans-serif" font-size="13">
+<rect width="760" height="420" fill="#fff"/>
+<line x1="70" x2="740" y1="360.0" y2="360.0" stroke="#e3e3e3"/><text x="62" y="364.0" text-anchor="end">40</text>
+<line x1="70" x2="740" y1="306.7" y2="306.7" stroke="#e3e3e3"/><text x="62" y="310.7" text-anchor="end">50</text>
+<line x1="70" x2="740" y1="253.3" y2="253.3" stroke="#e3e3e3"/><text x="62" y="257.3" text-anchor="end">60</text>
+<line x1="70" x2="740" y1="200.0" y2="200.0" stroke="#e3e3e3"/><text x="62" y="204.0" text-anchor="end">70</text>
+<line x1="70" x2="740" y1="146.7" y2="146.7" stroke="#e3e3e3"/><text x="62" y="150.7" text-anchor="end">80</text>
+<line x1="70" x2="740" y1="93.3" y2="93.3" stroke="#e3e3e3"/><text x="62" y="97.3" text-anchor="end">90</text>
+<line x1="70" x2="740" y1="40.0" y2="40.0" stroke="#e3e3e3"/><text x="62" y="44.0" text-anchor="end">100</text>
+<line x1="100.5" x2="100.5" y1="360" y2="365" stroke="#333"/><text x="100.5" y="380" text-anchor="middle">0</text>
+<line x1="303.5" x2="303.5" y1="360" y2="365" stroke="#333"/><text x="303.5" y="380" text-anchor="middle">10</text>
+<line x1="506.5" x2="506.5" y1="360" y2="365" stroke="#333"/><text x="506.5" y="380" text-anchor="middle">20</text>
+<line x1="709.5" x2="709.5" y1="360" y2="365" stroke="#333"/><text x="709.5" y="380" text-anchor="middle">30</text>
+<line x1="70" x2="740" y1="360" y2="360" stroke="#333"/><line x1="70" x2="70" y1="40" y2="360" stroke="#333"/><text x="405.0" y="405" text-anchor="middle" font-size="15">Pérdida en el enlace (%)</text><text transform="translate(18 200.0) rotate(-90)" text-anchor="middle" font-size="15">Muestras entregadas (%)</text>
+<line x1="70" x2="740" y1="50.7" y2="50.7" stroke="#e67e22" stroke-width="2" stroke-dasharray="6 4"/><text x="736" y="44.7" text-anchor="end" fill="#e67e22">KPI 98 %</text>
+<circle cx="100.5" cy="40.0" r="5" fill="#c0392b" fill-opacity=".8"/>
+<circle cx="202.0" cy="88.9" r="5" fill="#c0392b" fill-opacity=".8"/>
+<circle cx="303.5" cy="142.0" r="5" fill="#c0392b" fill-opacity=".8"/>
+<circle cx="506.5" cy="237.5" r="5" fill="#c0392b" fill-opacity=".8"/>
+<circle cx="709.5" cy="311.4" r="5" fill="#c0392b" fill-opacity=".8"/>
+<circle cx="85" cy="22" r="0"/><rect x="80" y="12" width="12" height="12" fill="#c0392b"/><text x="98" y="22">Confirmadas al 1er intento</text>
+<circle cx="100.5" cy="40.0" r="5" fill="#1f6f43" fill-opacity=".8"/>
+<circle cx="202.0" cy="40.0" r="5" fill="#1f6f43" fill-opacity=".8"/>
+<circle cx="303.5" cy="40.0" r="5" fill="#1f6f43" fill-opacity=".8"/>
+<circle cx="506.5" cy="41.2" r="5" fill="#1f6f43" fill-opacity=".8"/>
+<circle cx="709.5" cy="45.0" r="5" fill="#1f6f43" fill-opacity=".8"/>
+<circle cx="85" cy="22" r="0"/><rect x="270" y="12" width="12" height="12" fill="#1f6f43"/><text x="288" y="22">Recibidas en servidor (3 reintentos)</text>
+</svg>

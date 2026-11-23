@@ -1,0 +1,26 @@
+/* Diseño accesible: texto grande, alto contraste, íconos grandes (WCAG 2.2 AA). */
+:root { --verde: #1f6f43; --texto: #1a1a1a; --fondo: #f4f1ea; --tarjeta: #ffffff; }
+* { box-sizing: border-box; }
+body { margin: 0; font: 20px/1.45 system-ui, -apple-system, "Segoe UI", sans-serif;
+       color: var(--texto); background: var(--fondo); }
+header { display: flex; align-items: center; gap: 12px; padding: 12px 16px;
+         background: var(--verde); color: #fff; }
+header h1 { font-size: 24px; margin: 0; flex: 1; }
+main { max-width: 640px; margin: 0 auto; padding: 16px; display: grid; gap: 16px; }
+.tarjeta { display: flex; gap: 16px; align-items: center; background: var(--tarjeta);
+           border-radius: 16px; padding: 16px; box-shadow: 0 1px 3px rgba(0,0,0,.15); }
+.tarjeta.columna { flex-direction: column; align-items: stretch; }
+.tarjeta h2 { font-size: 22px; margin: 0 0 4px; }
+.tarjeta p { margin: 4px 0; }
+.icono-grande { font-size: 56px; line-height: 1; }
+.dato { font-size: 48px; font-weight: 700; }
+.pequeno { font-size: 16px; color: #444; }
+.pie { text-align: center; }
+.chip { font-size: 16px; padding: 4px 10px; border-radius: 999px; background: #fff; color: var(--texto); }
+.boton-grande { font-size: 24px; padding: 16px; border: 0; border-radius: 16px;
+                background: var(--verde); color: #fff; min-height: 64px; cursor: pointer; }
+.boton-grande:focus-visible { outline: 4px solid #000; outline-offset: 2px; }
+.alerta-ninguna { border-left: 12px solid #2e7d32; }
+.alerta-preventiva { border-left: 12px solid #b26a00; background: #fff4e0; }
+.alerta-critica { border-left: 12px solid #b00020; background: #ffe5e9; }
+svg { width: 100%; height: auto; }

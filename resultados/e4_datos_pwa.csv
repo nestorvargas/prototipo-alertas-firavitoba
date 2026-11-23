@@ -1,0 +1,4 @@
+escenario,registros,bytes_cuerpo,bytes_cabeceras,kb_total,kb_por_dia
+Sincronización diaria (1 día),96,2510,167,2.61,2.61
+Sincronización semanal (7 días),672,17366,168,17.12,2.45
+Carga inicial (90 días),8636,221712,169,216.68,2.41
