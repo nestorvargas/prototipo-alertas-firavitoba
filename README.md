@@ -2,7 +2,7 @@
 
 Proyecto de Ingeniería I (202337120) · Grupo 202337120_417 · Firavitoba (Boyacá)
 
-Equipo del repositorio: Nestor Fabian Vargas Ferrucho y Miguel Angel Carrion Perez
+Equipo del repositorio: Nestor Fabian Vargas Ferrucho, Miguel Angel Carrion Perez y Juan David Layton Valenzuela
 
 Prototipo **simulado con apoyo de TIC** del diseño unificado de la Etapa 3:
 
